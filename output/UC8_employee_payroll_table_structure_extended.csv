@@ -1,0 +1,9 @@
+Field,Type,Null,Key,Default,Extra
+id,int,NO,PRI,NULL,auto_increment
+name,varchar(150),NO,,NULL,
+gender,char(1),YES,,NULL,
+salary,double,NO,,NULL,
+start,date,NO,,NULL,
+phone_number,varchar(20),YES,,NULL,
+address,varchar(255),YES,,TBD,
+department,varchar(100),NO,,General,
