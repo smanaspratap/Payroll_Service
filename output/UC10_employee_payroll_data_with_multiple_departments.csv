@@ -1,0 +1,6 @@
+id,name,gender,salary,start,phone_number,address,department,basic_pay,deductions,taxable_pay,tax,net_pay
+1,Bill,M,1000000,2018-01-03,NULL,TBD,General,NULL,NULL,NULL,NULL,NULL
+2,Mark,M,2000000,2019-11-13,NULL,TBD,General,NULL,NULL,NULL,NULL,NULL
+3,Charlie,M,3000000,2020-05-21,NULL,TBD,General,NULL,NULL,NULL,NULL,NULL
+4,Terisa,F,3000000,2019-11-13,NULL,TBD,Sales,NULL,NULL,NULL,NULL,NULL
+5,Terisa,F,3000000,2019-11-13,NULL,TBD,Marketing,NULL,NULL,NULL,NULL,NULL
